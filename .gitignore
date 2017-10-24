@@ -1,9 +1,9 @@
-~/Documents/djangular/djangular/bin/
-~/Documents/djangular/djangular/include/
-~/Documents/djangular/djangular/lib/
-~/Documents/djangular/djangular/lib64/
-~/Documents/djangular/djangular/share/
-~/Documents/djangular/djangular/.vscode/
+./djangular/bin/
+./djangular/include/
+./djangular/lib/
+./djangular/lib64/
+./djangular/share/
+./djangular/.vscode/
 
-~/Documents/djangular/djangular/pip-selfcheck.json
-~/Documents/djangular/djangular/pyvenv.cfg
+./djangular/pip-selfcheck.json
+./djangular/pyvenv.cfg
