@@ -1,3 +1,4 @@
+*.pyc
 ./djangular/bin/
 ./djangular/include/
 ./djangular/lib/
